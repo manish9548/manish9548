@@ -1,5 +1,21 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>* Building Android apps using **Kotlin, XML, and Jetpack Compose**<br>* Developing **Spring Boot projects** with **Spring Data JPA and Thymeleaf**<br>* Improving my **Data Structures and Algorithms (DSA)** skills for placements<br><br>👯 I’m looking to collaborate on<br><br>* Android app development projects<br>* Java backend projects using Spring Boot<br>* Open source beginner-friendly projects<br><br>🤝 I’m looking for help with<br><br>* Advanced **System Design concepts**<br>* Writing clean and scalable backend code<br>* Improving problem-solving skills for coding interviews<br><br>🌱 I’m currently learning<br><br>* **Java (Advanced), Spring Boot, and REST APIs**<br>* **DSA (Recursion, Linked List, Trees, Graphs)**<br>* **Full Stack Development basics**<br><br>💬 Ask me about<br><br>* Java and DSA<br>* Android Development<br>* Spring Boot basics<br>* LeetCode problem solving<br><br>⚡ Fun fact<br><br>* I enjoy solving coding problems and building apps that solve real-world problems 🚀<br>
+👋 Hi, I'm Manish Baghel
+
+🎓 B.Tech CSE (5th Semester)
+💻 Aspiring Java Backend Developer | Android Developer
+🚀 Focused on Placements & Real-World Projects
+
+
+🚀 About Me
+
+🔭 Currently building Android Apps (Kotlin + Jetpack Compose)
+
+🌱 Learning Advanced Java, Spring Boot & REST APIs
+
+💡 Practicing DSA daily for placements
+
+🤝 Open to collaboration on Java Backend & Android Projects
+
+🎯 Goal: Crack a product/service based company
 
 
 ## 🌐 Socials:
