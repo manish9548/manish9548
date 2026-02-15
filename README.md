@@ -1,9 +1,5 @@
 👋 Hi, I'm Manish Baghel
-
-🎓 B.Tech CSE (5th Semester)
-💻 Aspiring Java Backend Developer | Android Developer
-🚀 Focused on Placements & Real-World Projects
-
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Android+Developer;Spring+Boot+Enthusiast;DSA+Learner+%F0%9F%9A%80" /> </p>
 
 🚀 About Me
 
@@ -18,8 +14,8 @@
 🎯 Goal: Crack a product/service based company
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Manish Baghel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_maniishhhhh__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/manish-baghel-ab1265295) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Manish Baghel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:baghelmanish4947@gmail.com) 
+## 🌐 Connect with me:
+<p align="left"> <a href="https://linkedin.com/in/manish-baghel-ab1265295" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:baghelmanish4947@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://instagram.com/_maniishhhhh__" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -37,9 +33,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manish9548&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=manish9548&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manish9548&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manish9548&show_icons=true&theme=tokyonight&hide_border=true"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish9548&theme=tokyonight&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish9548&layout=compact&theme=tokyonight&hide_border=true"/> </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manish9548&theme=radical&no-frame=false&no-bg=true&margin-w=4)
