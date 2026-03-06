@@ -32,9 +32,16 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manish9548&show_icons=true&theme=tokyonight&hide_border=true"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish9548&theme=tokyonight&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish9548&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+# 📊 My GitHub Journey
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manish9548&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Manish's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish9548&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish9548&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+</p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manish9548&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
