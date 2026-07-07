@@ -1,70 +1,254 @@
-# 👋 Hi, I'm Manish Baghel
-<p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Android+Developer;Spring+Boot+%26+React+Expert;DSA+Enthusiast+%F0%9F%9A%80" /> 
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Manish%20Baghel&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Java%20Developer%20%7C%20Building%20AI-Powered%20Products&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+MySQL;Building+AI-Powered+Applications;Preparing+for+Amazon+%7C+Microsoft+%7C+Adobe;Open+to+SDE+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ManishBaghel&label=Profile%20Views&color=58A6FF&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/ManishBaghel?label=Followers&style=for-the-badge&color=58A6FF)
+![Open to work](https://img.shields.io/badge/Open%20to-SDE%20Roles-brightgreen?style=for-the-badge)
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andresbedoya27/andresbedoya27/master/rainbow-superthin.svg" width="100%">
+
+## 🧑‍💻 About Me
+
+<img align="right" alt="Coding GIF" width="320" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
+
+```yaml
+name: Manish Baghel
+role: Full Stack Java Developer
+current_focus: >
+  Building scalable Spring Boot backends,
+  React frontends, and AI-integrated products.
+strengths:
+  - Java, Spring Boot, Spring Security, Hibernate/JPA
+  - REST APIs & JWT Authentication
+  - React & modern frontend engineering
+  - Strong DSA & problem-solving mindset
+currently_building: "AI Resume Interviewer 🤖"
+currently_learning: "System Design & Cloud Native patterns"
+targeting: ["Amazon", "Microsoft", "Adobe", "JP Morgan", "Atlassian", "Deloitte"]
+fun_fact: "I turn coffee ☕ into production-ready code."
+```
+
+<br clear="right"/>
+
+<img src="https://raw.githubusercontent.com/andresbedoya27/andresbedoya27/master/rainbow-superthin.svg" width="100%">
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Android
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+
+### Core Fundamentals
+![DSA](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-3776AB?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![OS](https://img.shields.io/badge/Operating_System-333333?style=for-the-badge&logo=linux&logoColor=white)
+![CN](https://img.shields.io/badge/Computer_Networks-0052CC?style=for-the-badge)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andresbedoya27/andresbedoya27/master/rainbow-superthin.svg" width="100%">
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🤖 AI Resume Interviewer — *Flagship Project*
+[![Repo](https://img.shields.io/badge/View-Repository-58A6FF?style=for-the-badge&logo=github)](https://github.com/ManishBaghel)
+
+</div>
+
+> An AI-powered mock interview platform that generates personalized interview questions from a candidate's resume using the **Gemini API**, backed by a secure **Spring Boot + JWT** backend and a modern **React** UI.
+
+| Highlight | Detail |
+|---|---|
+| 🧠 AI Engine | Gemini API generates dynamic, resume-based interview questions |
+| 🔐 Security | JWT-based authentication & authorization |
+| 📊 Dashboard | Interview history, analytics & progress tracking |
+| 💾 Persistence | MySQL-backed question & session storage |
+| 🎨 UI/UX | Fully responsive, modern React interface |
+
+`Spring Boot` `React` `Gemini API` `JWT` `MySQL`
 
 ---
 
-### 🚀 About Me
-I am a passionate **Full-Stack Software Developer** and a **6th-semester college student** (Batch of 2026). I specialize in building scalable web applications using Java and Spring Boot, alongside modern frontend frameworks.
+<table align="center">
+<tr>
+<td width="50%">
 
-* 🛠️ **Currently Building:** Employee Management System (EMS) using React & Spring Boot.
-* 🏆 **Achievements:** Smart India Hackathon (SIH) Participant - Blockchain-based Ayurvedic Supply Chain.
-* 🎯 **Goal:** Preparing for 2026 batch recruitment (TCS, Wipro, Infosys).
-* 💡 **Interests:** Competitive Programming, System Design, and Blockchain Healthcare solutions.
+### 👨‍💼 Employee Management System
+Full-featured HR management tool with secure auth and CRUD operations.
 
----
+**Highlights:** CRUD Operations · Authentication · Responsive Dashboard
 
-### 🛠️ Tech Stack & Tools
+`React` `Spring Boot` `MySQL`
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) |
-| **Backend** | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-005571?style=flat-square&logo=google-cloud&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white) ![HTML5/CSS3](https://img.shields.io/badge/-HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **Database/Cloud** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **Design/Tools** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+</td>
+<td width="50%">
 
----
+### 📇 Smart Contact Manager
+Secure contact management web app with server-side rendering.
 
-### 🌟 Featured Projects
+**Highlights:** Spring Security · Server-side Views · MySQL Persistence
 
-* **Employee Management System (EMS):** A full-stack application for managing organizational data.
-* **Smart Contact Manager:** A Spring Boot & Thymeleaf-based contact management solution.
-* **Arogya AI / Farm2Pharma:** Blockchain-integrated Ayurvedic medicine supply chain (SIH Project).
+`Spring Boot` `Thymeleaf` `Spring Security` `MySQL`
 
----
+</td>
+</tr>
+</table>
 
-### 📊 GitHub Stats & Journey
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manish9548&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish9548&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px"/>
-</p>
+<details>
+<summary><b>📱 Android Applications (click to expand)</b></summary>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish9548&theme=tokyonight&hide_border=true" width="100%"/>
-</p>
+| App | Description |
+|---|---|
+| ⛅ **Weather App** | Real-time weather data with clean Compose UI |
+| 📰 **News App** | Live news feed with category filters |
+| 🎓 **Student Management App** | Manage student records with Firebase backend |
+| 🧮 **CGPA Calculator** | Quick & accurate semester CGPA computation |
 
----
+`Kotlin` `Jetpack Compose` `Firebase`
 
-### 🏆 Trophies & Contributions
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manish9548&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+</details>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=manish9548&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+<img src="https://raw.githubusercontent.com/andresbedoya27/andresbedoya27/master/rainbow-superthin.svg" width="100%">
 
----
+## 📊 GitHub Analytics
 
-### 🌐 Connect with me:
-<p align="center">
-  <a href="https://linkedin.com/in/manish-baghel-ab1265295" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-  <a href="mailto:baghelmanish4947@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-  <a href="https://instagram.com/_maniishhhhh__" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=manish9548&icon=0&color=0" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ManishBaghel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManishBaghel&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishBaghel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishBaghel&theme=tokyo-night&hide_border=true" width="49%"/>
+
+</div>
+
+<div align="center">
+
+### 🏆 Trophy Room
+
+<img src="https://github-profile-trophy.vercel.app/?username=ManishBaghel&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andresbedoya27/andresbedoya27/master/rainbow-superthin.svg" width="100%">
+
+## 🧩 LeetCode & Problem Solving
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ManishBaghel?theme=dark&font=baloo2&extension=activity)](https://leetcode.com/ManishBaghel)
+
+*Consistently solving DSA problems to strengthen problem-solving and interview readiness.*
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andresbedoya27/andresbedoya27/master/rainbow-superthin.svg" width="100%">
+
+## 🎯 Achievements & Goals
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🏅 Achievements
+- 🇮🇳 Smart India Hackathon Participant
+- 🧠 Strong DSA Practice on LeetCode
+- ☕ Java Full Stack Developer
+- 🤖 Building Real-World AI Applications
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Currently Preparing For
+![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=flat-square&logo=amazon&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
+![JPMorgan](https://img.shields.io/badge/JP_Morgan-000000?style=flat-square&logo=jpmorganchase&logoColor=white)
+![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=flat-square&logo=atlassian&logoColor=white)
+![Deloitte](https://img.shields.io/badge/Deloitte-86BC25?style=flat-square&logo=deloitte&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andresbedoya27/andresbedoya27/master/rainbow-superthin.svg" width="100%">
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 😄 Random Dev Joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andresbedoya27/andresbedoya27/master/rainbow-superthin.svg" width="100%">
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manishbaghel)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishbaghel@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/manishbaghel)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ManishBaghel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💬 "Code is like humor. When you have to explain it, it's bad." — Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
+**⭐ Thanks for visiting — let's build something great together! ⭐**
+
+</div>
