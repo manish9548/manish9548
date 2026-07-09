@@ -152,7 +152,7 @@ Scalable AI-powered fitness microservice that generates personalized workout and
 
 <img src="https://raw.githubusercontent.com/andresbedoya27/andresbedoya27/master/rainbow-superthin.svg" width="100%">
 
-### 📊 GitHub Stats & Journey
+## 📊 GitHub Stats & Journey
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manish9548&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish9548&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px"/>
@@ -176,7 +176,7 @@ Scalable AI-powered fitness microservice that generates personalized workout and
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ManishBaghel?theme=dark&font=baloo2&extension=activity)](https://leetcode.com/u/maniish_baghell/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/maniish_baghell?theme=dark&font=baloo2&extension=activity)](https://leetcode.com/u/maniish_baghell/)
 
 *Consistently solving DSA problems to strengthen problem-solving and interview readiness.*
 
