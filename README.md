@@ -114,22 +114,22 @@ fun_fact: "I turn coffee ☕ into production-ready code."
 <tr>
 <td width="50%">
 
-### 👨‍💼 Employee Management System
-Full-featured HR management tool with secure auth and CRUD operations.
+### 🤖 AI Research Platform
+An AI-powered platform for uploading research papers, generating intelligent summaries, and managing research efficiently.
 
-**Highlights:** CRUD Operations · Authentication · Responsive Dashboard
+**Highlights:** PDF Upload · AI Summarization · JWT Authentication · Research Management
 
 `React` `Spring Boot` `MySQL`
 
 </td>
 <td width="50%">
 
-### 📇 Smart Contact Manager
-Secure contact management web app with server-side rendering.
+### 🏋️ AI Fitness Microservice
+Scalable AI-powered fitness microservice that generates personalized workout and diet plans through secure REST APIs.
 
-**Highlights:** Spring Security · Server-side Views · MySQL Persistence
+**Highlights:** Microservices · AI Recommendations · JWT Authentication · REST APIs
 
-`Spring Boot` `Thymeleaf` `Spring Security` `MySQL`
+`Spring Boot` `Spring Security` `MySQL` `REST API`
 
 </td>
 </tr>
@@ -139,30 +139,28 @@ Secure contact management web app with server-side rendering.
 <summary><b>📱 Android Applications (click to expand)</b></summary>
 <br>
 
-| App | Description |
+| Project | Description |
 |---|---|
-| ⛅ **Weather App** | Real-time weather data with clean Compose UI |
-| 📰 **News App** | Live news feed with category filters |
-| 🎓 **Student Management App** | Manage student records with Firebase backend |
-| 🧮 **CGPA Calculator** | Quick & accurate semester CGPA computation |
+| 🤖 **AI Resume Interviewer** | AI-powered platform for resume analysis, interview question generation, and performance feedback |
+| 📚 **AI Research Platform** | Intelligent research paper management with AI summarization and secure authentication |
+| 🏋️ **AI Fitness Microservice** | Personalized workout and nutrition recommendation service with secure REST APIs |
+| 👨‍💼 **HR Management System** | Employee management system with authentication, role-based access, and CRUD operations |
 
-`Kotlin` `Jetpack Compose` `Firebase`
+`React` `Spring Boot` `Spring Security` `MySQL`
 
 </details>
 
 <img src="https://raw.githubusercontent.com/andresbedoya27/andresbedoya27/master/rainbow-superthin.svg" width="100%">
 
-## 📊 GitHub Analytics
+### 📊 GitHub Stats & Journey
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manish9548&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish9548&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px"/>
+</p>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ManishBaghel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManishBaghel&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishBaghel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishBaghel&theme=tokyo-night&hide_border=true" width="49%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish9548&theme=tokyonight&hide_border=true" width="100%"/>
+</p>
 
 <div align="center">
 
@@ -178,7 +176,7 @@ Secure contact management web app with server-side rendering.
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ManishBaghel?theme=dark&font=baloo2&extension=activity)](https://leetcode.com/ManishBaghel)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ManishBaghel?theme=dark&font=baloo2&extension=activity)](https://leetcode.com/u/maniish_baghell/)
 
 *Consistently solving DSA problems to strengthen problem-solving and interview readiness.*
 
@@ -193,7 +191,7 @@ Secure contact management web app with server-side rendering.
 <td width="50%" valign="top">
 
 ### 🏅 Achievements
-- 🇮🇳 Smart India Hackathon Participant
+- 🇮🇳 HackWithUp 2025 1st place winner
 - 🧠 Strong DSA Practice on LeetCode
 - ☕ Java Full Stack Developer
 - 🤖 Building Real-World AI Applications
