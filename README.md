@@ -167,9 +167,9 @@ Scalable AI-powered fitness microservice that generates personalized workout and
 ### 🏆 Trophy Room
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManishBaghel&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
-  <br>
-  <img src="https://raw.githubusercontent.com/andresbedoya27/andresbedoya27/master/rainbow-superthin.svg" width="100%">
+<img src="https://github-profile-trophy.vercel.app/?username=manish9548&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
+<br>
+<img src="https://raw.githubusercontent.com/andresbedoya27/andresbedoya27/master/rainbow-superthin.svg" width="100%">
 </div>
 
 ## 🧩 LeetCode & Problem Solving
