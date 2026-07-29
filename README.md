@@ -155,23 +155,21 @@ Scalable AI-powered fitness microservice that generates personalized workout and
 ## 📊 GitHub Stats & Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManishBaghel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishBaghel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manish9548&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish9548&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManishBaghel&theme=tokyonight&hide_border=true" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish9548&theme=tokyonight&hide_border=true" width="100%"/>
 </p>
 
 <div align="center">
 
 ### 🏆 Trophy Room
 
-<img src="https://github-profile-trophy.vercel.app/?username=ManishBaghel&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=manish9548&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
 
 </div>
-
-<img src="https://raw.githubusercontent.com/andresbedoya27/andresbedoya27/master/rainbow-superthin.svg" width="100%">
 
 ## 🧩 LeetCode & Problem Solving
 
