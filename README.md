@@ -152,23 +152,36 @@ Scalable AI-powered fitness microservice that generates personalized workout and
 
 <img src="https://raw.githubusercontent.com/andresbedoya27/andresbedoya27/master/rainbow-superthin.svg" width="100%">
 
-## 📊 GitHub Stats & Journey
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manish9548&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish9548&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish9548&theme=tokyonight&hide_border=true" width="100%"/>
-</p>
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manish9548&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish9548&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
 
-### 🏆 Trophy Room
+<div align="center">
+  <img width="98%" src="https://streak-stats.demolab.com?user=manish9548&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=900"/>
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=manish9548&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
+<!-- GitHub Summary Cards -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manish9548&theme=tokyonight" width="98%"/>
+</div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manish9548&theme=tokyonight" height="170em"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manish9548&theme=tokyonight" height="170em"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manish9548&theme=tokyonight&utcOffset=5.5" height="170em"/>
+</div>
+
+---
+
+## 🏆 Trophy Cabinet
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manish9548&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7&row=1" width="100%"/>
 </div>
 
 ## 🧩 LeetCode & Problem Solving
